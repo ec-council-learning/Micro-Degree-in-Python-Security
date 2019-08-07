@@ -1,0 +1,21 @@
+Terms:
+ - Encapsulation (setter/getter)
+ - Polymorphism (In python the next definition overrides the previous if the name matches)
+ - Inheritance ()
+  Animal super class (numberoflegs, communicate)
+  - Dog subclass (numberoflegs = 4, (communicate -> woof))
+  - Cat subclass (numberoflegs = 4, (communicate -> meow))
+ Abstraction
+
+# Basic components
+ - __init__ -> instance creation, customization
+ - __new__ -> handled the object creation
+ - cls -> refers to the class itself
+ - self -> refers to the specific instance
+ - @classmethod -> the "cls" is passed as first argument
+ - @staticmethod -> you do not pass any arguments
+ - __str__ -> when you print the actual class/instance
+ - __repr__ -> when calling the repr() on the instance
+
+
+
