@@ -1,0 +1,7 @@
+These are exceptions
+====================
+
+.. autoclass:: TestModule.TestModule.TestException
+   :members:
+   :undoc-members:
+   :private-members:
