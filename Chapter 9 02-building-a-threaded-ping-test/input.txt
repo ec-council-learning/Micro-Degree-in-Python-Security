@@ -1,0 +1,5 @@
+http://httpstat.us/200
+http://httpstat.us/200?sleep=2000
+http://httpstat.us/404
+http://httpstat.us/500?sleep=3000
+http://httpstat.us/524
